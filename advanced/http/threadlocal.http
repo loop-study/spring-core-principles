@@ -1,0 +1,5 @@
+### 정상 호출
+GET http://localhost:8080/v3/request?itemId=test
+
+### 예외 호출
+GET http://localhost:8080/v3/request?itemId=ex
