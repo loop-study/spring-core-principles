@@ -1,0 +1,12 @@
+### spring proxy pattern 호출
+
+### v1
+GET http://localhost:8080/v1/request?itemId=ok
+
+GET http://localhost:8080/v1/no-log
+
+
+### v2
+GET http://localhost:8080/v2/request?itemId=ok
+
+GET http://localhost:8080/v2/no-log
